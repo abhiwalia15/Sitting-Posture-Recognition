@@ -1,0 +1,11 @@
+conda update anaconda-navigator  
+conda update navigator-updater  
+pip install opencv-python
+pip install opencv-python
+pip install scipy
+pip install keras
+pip install tensorflow
+
+
+
+
